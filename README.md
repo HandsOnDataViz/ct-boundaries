@@ -7,14 +7,17 @@ View in GitHub, or open in https://mapshaper.org or https://geojson.io to inspec
 
 Read more in https://handsondataviz.org
 
+IMPORTANT: To upload these GeoJSON files into Datawrapper maps, effective 2022, follow these instructions: https://academy.datawrapper.de/article/145-how-to-upload-your-own-map
+
 ## Connecticut
+- CT Towns 2022 - same source as below, but has been edited to be uploaded into Datawrapper
 - CT Towns 2021 https://data.ct.gov/Government/Town-Boundary-Index-Map/evyv-fqzg
 - CT House Districts 2020 https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/datasets/64464e6e13f34c2badfe1e4950d6e7fe_0/explore
 - CT Senate Districts 2020
 - CT House2011 and Senate2011 districts from
 https://www.cga.ct.gov/red2011/maps.asp
 - in future years, use House2021 and Senate2021 from
-https://www.cga.ct.gov/rr/taskforce.asp?TF=20210401_2021%20Redistricting%20Project 
+https://www.cga.ct.gov/rr/taskforce.asp?TF=20210401_2021%20Redistricting%20Project
 
 ## Hartford
 - Hartford Neighborhoods 2021 https://openhartford-hartfordgis.opendata.arcgis.com/datasets/neighborhood-district/explore
