@@ -21,3 +21,6 @@ https://www.cga.ct.gov/rr/taskforce.asp?TF=20210401_2021%20Redistricting%20Proje
 
 ## Hartford
 - Hartford Neighborhoods 2021 https://openhartford-hartfordgis.opendata.arcgis.com/datasets/neighborhood-district/explore
+
+## West Hartford
+- West Hartford elementary and secondary school attendance boundaries, 2015-16 https://nces.ed.gov/programs/edge/sabs -- https://data-nces.opendata.arcgis.com/search?groupIds=455147561fd3416daa180395fb4e9237&q=sabs
